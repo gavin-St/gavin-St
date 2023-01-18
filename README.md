@@ -7,8 +7,11 @@ I am an aspiring software developer who is passionate about programming in front
 Also a top 60 tetris player in Canada, avid ultimate frisbee fan, and a ping pong hustler in my spare time 😎.
 
 Contact information:
+
 Email: gavins1237@gmail.com
+
 Discord: SteamedWater#6449
+
 Instagram: @avin_g__
 
 Feel free to check out my (in-progress) <a href="https://gavin-st.github.io/personal-website/"><u><b>personal website!</b></u></a><br><br>
