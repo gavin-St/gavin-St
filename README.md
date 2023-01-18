@@ -1,6 +1,6 @@
 ### Welcome to my profile!! 👋
 
-*Hi!* I am Gavin Song, a ```Computer Science``` student @ the **University of Waterloo** in his 1B term. Currently looking for a software dev co-op in Summer 2023!
+*Hello!* I am Gavin Song, a ```Computer Science``` student @ the **University of Waterloo** in his 1B term. Currently looking for a software dev co-op in Summer 2023!
 
 I am an aspiring software developer who is passionate about programming in front-end, back-end, data, machine learning, competitive programming, and basically anything that has to do with coding🤩! 
 
