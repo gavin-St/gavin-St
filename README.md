@@ -8,11 +8,11 @@ Also a top 60 tetris player in Canada, avid ultimate frisbee fan, and a ping pon
 
 Contact information:
 
-<a href="mailto:gavins1237@gmail.com">![Gmail](Email)</a> 
+<a href="mailto:gavins1237@gmail.com">![Gmail]Email</a> 
   
-<a href="https://www.linkedin.com/in/gavin-song-a90497227/">![Gmail](Linkedin)</a> 
+<a href="https://www.linkedin.com/in/gavin-song-a90497227/">Linkedin</a> 
 
-<a href="https://www.instagram.com/avin_g__/">![Gmail](Instagran)</a> 
+<a href="https://www.instagram.com/avin_g__/">Instagram</a> 
 
 Discord: SteamedWater#6449
 
