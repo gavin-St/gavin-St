@@ -4,7 +4,7 @@ Hello! I am Gavin Song, a ```Computer Science``` student @**University of Waterl
 
 I am an aspiring software developer who is passionate about programming in front-end, back-end, data, machine learning, competitive programming, and basically anything that has to do with coding🤩! 
 
-Also a top 60 tetris player in Canada, avid ultimate frisbee fan, and a ping pong hustler in my spare time 😎.
+Also a top 60 tetris player in Canada, avid ultimate frisbee fan, and ping pong hustler in my spare time 😎.
 
 Contact information:
 
