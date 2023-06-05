@@ -1,6 +1,6 @@
 ### Welcome to my profile!! 👋
 
-Hello! I am Gavin Song, a ```Computer Science``` student @**University of Waterloo** on his 1B term. Currently looking for a software dev internship in Summer 2023!
+Hello! I am Gavin Song, a ```Computer Science``` student @**University of Waterloo** on his 2A term.
 
 I am an aspiring software developer who is passionate about creating and of course programming in front-end, back-end, data, machine learning, crypto, competitive programming, and basically anything that has to do with coding! 
 
@@ -12,7 +12,7 @@ Contact information:
 
 <a href="mailto:gavins1237@gmail.com">Email</a> 
   
-<a href="https://www.linkedin.com/in/gavin-song-a90497227/">Linkedin</a> 
+<a href="https://www.linkedin.com/in/gavin-song/">Linkedin</a> 
 
 <a href="https://www.instagram.com/avin_g__/">Instagram</a> 
 
