@@ -14,9 +14,5 @@ Contact information:
   
 <a href="https://www.linkedin.com/in/gavin-song/">Linkedin</a> 
 
-<a href="https://www.instagram.com/avin_g__/">Instagram</a> 
-
-Discord: SteamedWater#6449
-
 
 
