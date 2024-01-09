@@ -1,6 +1,6 @@
 ### Welcome to my profile!! 👋
 
-Hello! I am Gavin Song, a ```Computer Science``` student @**University of Waterloo** on his 2B term.
+Hello! I am Gavin Song, a ```Computer Science``` student @**University of Waterloo** on his 2B co-op term.
 
 I am an aspiring software developer who is passionate about creating and programming in front-end, back-end, embedded systems, data, machine learning, crypto, competitive programming, and basically anything that has to do with coding! 
 
