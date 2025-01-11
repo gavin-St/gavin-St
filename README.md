@@ -6,7 +6,7 @@ I am an aspiring software developer who is passionate about creating and program
 
 Also am top 60 tetris in Canada, ultimate frisbee player, and ping pong hustler in my spare time 😎.
 
-Feel free to check out my (in-progress) <a href="https://gavin-st.github.io/personal-website/"><u><b>personal website!</b></u></a><br><br>
+Feel free to check out my <a href="https://gavin-st.github.io/personal-website/"><u><b>personal website!</b></u></a><br><br>
 
 Contact information:
 
